@@ -1,6 +1,6 @@
 {
   "id": "dev.csabaszabo.computhermthermostat",
-  "version": "0.2.3",
+  "version": "0.3.3",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -11,7 +11,7 @@
     "en": "Computherm Thermostat"
   },
   "description": {
-    "en": "Control your Computherm thermostat with Homey 🔥"
+    "en": "Always set the right temperature in your home."
   },
   "category": [
     "climate"
@@ -30,5 +30,6 @@
     "url": "https://github.com/CsabaSzabo/dev.csabaszabo.computhermthermostat/issues"
   },
   "source": "https://github.com/CsabaSzabo/dev.csabaszabo.computhermthermostat",
-  "support": "mailto:csaba.szabo4+homey@gmail.com"
+  "support": "mailto:csaba.szabo4+homey@gmail.com",
+  "homeyCommunityTopicId": 93053
 }
