@@ -12,6 +12,14 @@ Useful commands:
 
 ## Hysen device full status
 
+- `dif`: room temperature control difference
+- `svh`: room temperature set max
+- `svl`: room temperature set min
+- `adj`: room temp adjust
+- `fre`: antifreeze set
+- `pon`: power memory
+
+
 Examples
 
 
